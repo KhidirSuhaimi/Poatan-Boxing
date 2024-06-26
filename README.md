@@ -1,2 +1,2 @@
 # Poatan-Boxing
-Use Bootstrap to create Boxing WebPage in Under an Hour
+Using Bootstrap to create Boxing WebPage in Under an Hour
